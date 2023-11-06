@@ -4,36 +4,37 @@ This 3D Printing Cost Calculator is a Python script designed to help makers, hob
 
 # Features
 
-## Profile Management:
-    Create and manage profiles for:
+1. Profile Management:
+ Create and manage profiles for:
         - printers
         - materials
         - parts 
-    To quickly calculate costs for different configurations.
+To quickly calculate costs for different configurations.
 
-## Cost Calculation:
-    Calculate the cost of 3D printing based on material usage, electricity consumption, printer depreciation, and labor.
-## Material properties:
-    Add new materials with specific properties like density and price, or select from a list of predefined materials.
-## Printer Database:
-    Maintain a database of printer profiles, including purchase price, power consumption, and expected lifetime for accurate depreciation calculation.
-## Part Specifications:
-    Define parts with detailed specifications such as volume, print time, setup time, post-processing time, and the number of instances.
-## Batch Processing: 
-    Calculate costs for printing multiple instances of a part, with setup time added only once.
-## Labor costs:
-    Include labor costs in the calculation, with the ability to specify different labor rates for setup and post-processing.
-## Electricity costs:
+2.  Cost Calculation:
+Calculate the cost of 3D printing based on material usage, electricity consumption, printer depreciation, and labor.
+3.  Material properties:
+Add new materials with specific properties like density and price, or select from a list of predefined materials.
+4.  Printer Database:
+Maintain a database of printer profiles, including purchase price, power consumption, and expected lifetime for accurate depreciation calculation.
+5.  Part Specifications:
+Define parts with detailed specifications such as volume, print time, setup time, post-processing time, and the number of instances.
+6. Batch Processing: 
+Calculate costs for printing multiple instances of a part, with setup time added only once.
+7. Labor costs:
+Include labor costs in the calculation, with the ability to specify different labor rates for setup and post-processing.
+8. Electricity costs:
 Input the cost of electricity per kWh as a global setting to be used in all calculations.
-## Depreciation Calculation:
-    Determine the depreciation cost of the printer over its useful life, factored into the total cost of printing.
-## Output Details:
-    Get detailed breakdowns of costs per instance and for the entire batch, including material, electricity, depreciation, labor, and total costs.
-## Unit Conversion
-    : Automatically convert between different units of measurement for volume and weight.
-## JSON Storage:
-    Save and load profiles and settings in JSON format for easy editing and sharing.
-## User-Friendly Input: Interactive prompts guide the user through the process of creating profiles and calculating costs.
+9. Depreciation Calculation:
+Determine the depreciation cost of the printer over its useful life, factored into the total cost of printing.
+10. Output Details:
+Get detailed breakdowns of costs per instance and for the entire batch, including material, electricity, depreciation, labor, and total costs.
+11. Unit Conversion:
+Automatically convert between different units of measurement for volume and weight.
+12. JSON Storage:
+Save and load profiles and settings in JSON format for easy editing and sharing.
+13. User-Friendly Input:
+Interactive prompts guide the user through the process of creating profiles and calculating costs.
 
 
 # Future Updates
