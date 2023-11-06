@@ -1,0 +1,8 @@
+{
+    "PLA": {
+        "name": "PLA",
+        "density": 1.24,
+        "price_per_1000g": 50.0,
+        "filament_diameter_mm": 1.75
+    }
+}

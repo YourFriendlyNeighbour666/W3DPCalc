@@ -2,6 +2,16 @@
 Wild 3D Print Offiline calculator. Terminal based, simplistic calc that lets you estimate filament used weight and costs.Create profiles for printers/filaments/parts etc
 This 3D Printing Cost Calculator is a Python script designed to help makers, hobbyists, and small businesses estimate the cost of 3D printing projects. It takes into account various factors such as material, electricity, depreciation of the printer, and labor costs. This tool is open-source and free for everyone to use and contribute to.
 
+# UPDATES
+Now you can choose between main version and brand new:
+- Alpha fork with W3DPC 0.2.py
+
+Inside you will find neat, cleaner version of the code, with few features from "Future updates" included (parts_database is here!)
+* including example generated output, you don't have to use those files. If you wish to have a clean instance of script, simply delete every .json file before running the script. 
+
+# Tips for new terminal/python users
+Coming soon
+
 # Features
 
 1. Profile Management:
@@ -53,8 +63,9 @@ cd W3DPCalc-main
 python3 PrintCalcv0.1.py
 
 Follow the on-screen prompts to create profiles and calculate the cost of your 3D printing projects.
-
-
+## For Alpha version
+    file name is changed to '3DPC 0.2.py'
+    JSON Files included as example, feel free to delete them after cloning to ensure fresh experience.
 ## Customizing Global Settings
 
 The 3D Printing Cost Calculator comes with a set of default global settings that you can easily customize to match your local costs and preferences. These settings include the labor cost per hour and the cost of electricity per kWh, among others.

@@ -1,0 +1,12 @@
+{
+    "HuugeGear": {
+        "material_cost_per_instance": 3.25,
+        "total_material_cost": 16.25,
+        "electricity_cost": 0.69,
+        "depreciation_cost": 11.42,
+        "labor_cost": 37.5,
+        "total_cost": 65.86,
+        "weight_g_per_instance": 65.0,
+        "total_weight_g": 325.0
+    }
+}

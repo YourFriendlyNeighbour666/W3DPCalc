@@ -1,0 +1,8 @@
+{
+    "MK4": {
+        "name": "MK4",
+        "price": 2500.0,
+        "depreciation_time": 4380.0,
+        "power_consumption": 150.0
+    }
+}
