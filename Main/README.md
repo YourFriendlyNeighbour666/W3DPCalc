@@ -32,7 +32,7 @@ To use the 3D Printing Cost Calculator, clone the repository and run the script 
 
 ```bash
 git clone https://github.com/YourFriendlyNeighbour666/W3DPCalc
-cd cd W3DPCalc-main
+cd W3DPCalc-main
 python3 PrintCalcv0.1.py
 
 Follow the on-screen prompts to create profiles and calculate the cost of your 3D printing projects.
