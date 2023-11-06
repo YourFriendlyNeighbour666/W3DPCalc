@@ -31,9 +31,9 @@ This 3D Printing Cost Calculator is a Python script designed to help makers, hob
 To use the 3D Printing Cost Calculator, clone the repository and run the script in a Python 3 environment:
 
 ```bash
-git clone https://github.com/yourusername/3d-printing-cost-calculator.git
-cd 3d-printing-cost-calculator
-python3 calculator.py
+git clone https://github.com/YourFriendlyNeighbour666/W3DPCalc
+cd cd W3DPCalc-main
+python3 PrintCalcv0.1.py
 
 Follow the on-screen prompts to create profiles and calculate the cost of your 3D printing projects.
 
