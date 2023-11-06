@@ -1,32 +1,50 @@
 # W3DPCalc
-Wild 3D Print Offiline calculator. Basic calc that lets you estimate weight and costs.Create profiles for printers/filaments/parts etc
+Wild 3D Print Offiline calculator. Terminal based, simplistic calc that lets you estimate filament used weighh and costs.Create profiles for printers/filaments/parts etc
 This 3D Printing Cost Calculator is a Python script designed to help makers, hobbyists, and small businesses estimate the cost of 3D printing projects. It takes into account various factors such as material, electricity, depreciation of the printer, and labor costs. This tool is open-source and free for everyone to use and contribute to.
 
-Features
+# Features
 
-Profile Management: Create and manage profiles for printers, materials, and parts to quickly calculate costs for different configurations.
-Cost Calculation: Calculate the cost of 3D printing based on material usage, electricity consumption, printer depreciation, and labor.
-Material Flexibility: Add new materials with specific properties like density and price, or select from a list of predefined materials.
-Printer Database: Maintain a database of printer profiles, including purchase price, power consumption, and expected lifetime for accurate depreciation calculation.
-Part Specifications: Define parts with detailed specifications such as volume, print time, setup time, post-processing time, and the number of instances.
-Batch Processing: Calculate costs for printing multiple instances of a part, with setup time added only once.
-Labor Costing: Include labor costs in the calculation, with the ability to specify different labor rates for setup and post-processing.
-Electricity Costing: Input the cost of electricity per kWh as a global setting to be used in all calculations.
-Depreciation Calculation: Determine the depreciation cost of the printer over its useful life, factored into the total cost of printing.
-Output Details: Get detailed breakdowns of costs per instance and for the entire batch, including material, electricity, depreciation, labor, and total costs.
-Unit Conversion: Automatically convert between different units of measurement for volume and weight.
-JSON Storage: Save and load profiles and settings in JSON format for easy editing and sharing.
-User-Friendly Input: Interactive prompts guide the user through the process of creating profiles and calculating costs.
-Future Updates
+## Profile Management:
+    Create and manage profiles for:
+        - printers
+        - materials
+        - parts 
+    To quickly calculate costs for different configurations.
 
-Parts Database: Implement a comprehensive database to store and retrieve previously calculated parts for ease of cost estimation in future projects.
-Enhanced Reporting: Develop advanced reporting features to visualize cost breakdowns and historical data trends.
-API Integration: Integrate with APIs to fetch real-time prices for materials and electricity to keep cost estimations up to date.
-User Interface: Create a web-based interface to allow users to manage profiles and calculate costs without needing to run a Python script.
-Multi-Language Support: Localize the application to support multiple languages, making it accessible to a global audience.
-Customizable Templates: Provide templates for common part profiles and printer settings to streamline the setup process for new users.
-Getting Started
+## Cost Calculation:
+    Calculate the cost of 3D printing based on material usage, electricity consumption, printer depreciation, and labor.
+## Material properties:
+    Add new materials with specific properties like density and price, or select from a list of predefined materials.
+## Printer Database:
+    Maintain a database of printer profiles, including purchase price, power consumption, and expected lifetime for accurate depreciation calculation.
+## Part Specifications:
+    Define parts with detailed specifications such as volume, print time, setup time, post-processing time, and the number of instances.
+## Batch Processing: 
+    Calculate costs for printing multiple instances of a part, with setup time added only once.
+## Labor costs:
+    Include labor costs in the calculation, with the ability to specify different labor rates for setup and post-processing.
+## Electricity costs:
+Input the cost of electricity per kWh as a global setting to be used in all calculations.
+## Depreciation Calculation:
+    Determine the depreciation cost of the printer over its useful life, factored into the total cost of printing.
+## Output Details:
+    Get detailed breakdowns of costs per instance and for the entire batch, including material, electricity, depreciation, labor, and total costs.
+## Unit Conversion
+    : Automatically convert between different units of measurement for volume and weight.
+## JSON Storage:
+    Save and load profiles and settings in JSON format for easy editing and sharing.
+## User-Friendly Input: Interactive prompts guide the user through the process of creating profiles and calculating costs.
 
+
+# Future Updates
+- Parts Database: Implement a comprehensive database to store and retrieve previously calculated parts for ease of cost estimation in future projects.
+-  Enhanced Reporting: Develop advanced reporting features to visualize cost breakdowns and historical data trends.
+- API Integration: Integrate with APIs to fetch real-time prices for materials and electricity to keep cost estimations up to date.
+- User Interface: Create a web-based interface to allow users to manage profiles and calculate costs without needing to run a Python script.
+- Multi-Language Support: Localize the application to support multiple languages, making it accessible to a global audience.
+- Customizable Templates: Provide templates for common part profiles and printer settings to streamline the setup process for new users.
+
+# Getting Started
 To use the 3D Printing Cost Calculator, clone the repository and run the script in a Python 3 environment:
 
 git clone https://github.com/YourFriendlyNeighbour666/W3DPCalc
@@ -74,7 +92,7 @@ The 3D Printing Cost Calculator comes with a set of default global settings that
 By following these steps, you can tailor the 3D Printing Cost Calculator to more accurately reflect your costs, ensuring that the estimates it provides are as close to your actual expenses as possible.
 
 
-## Contributing
+# Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
