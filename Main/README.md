@@ -70,7 +70,7 @@ The 3D Printing Cost Calculator comes with a set of default global settings that
 
 ### Note:
 
-- Ensure that you enter the numerical values correctly, without any currency symbols or commas. The script expects plain numbers (e.g., `60.00` not `60,00 zł`).
+- Ensure that you enter the numerical values correctly, without any currency symbols or commas. The script expects plain numbers (e.g., `60.00` not `60,00 $`).
 - If you make a syntax error in the JSON file, the script may not run correctly. If this happens, check the file for missing commas, quotation marks, or braces.
 
 By following these steps, you can tailor the 3D Printing Cost Calculator to more accurately reflect your costs, ensuring that the estimates it provides are as close to your actual expenses as possible.
