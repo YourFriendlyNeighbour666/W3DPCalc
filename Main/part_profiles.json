@@ -1,0 +1,10 @@
+{
+    "HuuugeGear": {
+        "name": "HuuugeGear",
+        "volume_mm3": 52419.35483870968,
+        "print_time": 4.0,
+        "setup_time": 1.0,
+        "post_processing_time": 0.1,
+        "instances": 5
+    }
+}
