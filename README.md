@@ -1,5 +1,5 @@
 # W3DPCalc
-Wild 3D Print Offiline calculator. Terminal based, simplistic calc that lets you estimate filament used weight and costs.Create profiles for printers/filaments/parts etc
+Wild 3D Print Offline calculator. Terminal based, simplistic calc that lets you estimate filament used weight and costs.Create profiles for printers/filaments/parts etc
 This 3D Printing Cost Calculator is a Python script designed to help makers, hobbyists, and small businesses estimate the cost of 3D printing projects. It takes into account various factors such as material, electricity, depreciation of the printer, and labor costs. This tool is open-source and free for everyone to use and contribute to.
 
 # UPDATES
