@@ -1,10 +1,10 @@
-# W3DPCalc
+# Rusty3Dprint
 Wild 3D Print Offline calculator. Terminal based, simplistic calc that lets you estimate filament used weight and costs.Create profiles for printers/filaments/parts etc
 This 3D Printing Cost Calculator is a Python script designed to help makers, hobbyists, and small businesses estimate the cost of 3D printing projects. It takes into account various factors such as material, electricity, depreciation of the printer, and labor costs. This tool is open-source and free for everyone to use and contribute to.
 
 # UPDATES
 Updated to:
-- W3DPC 0.2.py
+- Rusty3Dprint.py
 
 Inside you will find neat, cleaner version of the code, with few features from "Future updates" included (parts_database is here!)
 * including example generated output, you don't have to use those files. If you wish to have a clean instance of script, simply delete every .json file before running the script. 
